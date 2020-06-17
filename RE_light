@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC
+"104","C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C13,C14,C15,C12","Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",""
+"WS2812","D15,D14,D13,D12,D11,D10,D8,D7,D6,D5,D4,D3,D2,D1,D9","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm",""
+"Conn_01x03_Female","J3,J1","Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical",""
+"LM1117-3.3","U1","Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical",""
+"ESP-01v090","U2","ESP8266:ESP-01",""
