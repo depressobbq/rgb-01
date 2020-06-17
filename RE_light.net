@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "/mnt/stuff/home/Documents/kicad projects/RE Light/RE_light/RE_light.sch")
-    (date "Tue Jun 16 20:18:26 2020")
+    (date "Wed 17 Jun 2020 01:42:17 AM EDT")
     (tool "Eeschema 5.1.5+dfsg1-2build2")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -47,6 +47,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name LCSC) C114586))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5EEA239E))
@@ -54,6 +56,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name LCSC) " C114586"))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5EEACF9C))
@@ -61,6 +65,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name LCSC) " C114586"))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5EEADAA1))
@@ -68,6 +74,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name LCSC) " C114586"))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5EEAE359))
@@ -75,6 +83,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name LCSC) " C114586"))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5EEAEC26))
@@ -82,6 +92,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name LCSC) " C114586"))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5EEAF684))
@@ -89,6 +101,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name LCSC) " C114586"))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5EEAFE62))
@@ -96,6 +110,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name LCSC) " C114586"))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5EEB07B4))
@@ -103,6 +119,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name LCSC) " C114586"))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5EEB0FB0))
@@ -110,6 +128,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name LCSC) " C114586"))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5EEB1515))
@@ -117,6 +137,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name LCSC) " C114586"))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5EEB1DD3))
@@ -124,6 +146,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name LCSC) " C114586"))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5EEB267D))
@@ -131,6 +155,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name LCSC) " C114586"))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5EEB2DEA))
@@ -138,6 +164,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name LCSC) " C114586"))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5EEB3800))
@@ -145,6 +173,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name LCSC) " C114586"))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5EEB3E84)))
